@@ -1,4 +1,4 @@
-# dashCalendar Prestashop Module
+# dashCalendar Sample Prestashop Module
 
 PrestaShop Dashboard Module
 Show Date and Time in new PrestaShop 1.6 Dashboard
