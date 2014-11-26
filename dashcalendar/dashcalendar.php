@@ -27,7 +27,7 @@ class Dashcalendar extends Module
 		$this->name = 'dashcalendar';
 		$this->tab = 'dashboard';
 		$this->version = '0.1';
-		$this->author = 'PrestaShop';
+		$this->author = 'Frédéric BENOIST';
 		$this->push_filename = _PS_CACHE_DIR_.'push/calendar';
 		$this->allow_push = true;
 		$this->push_time_limit = 180;
