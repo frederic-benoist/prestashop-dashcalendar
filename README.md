@@ -3,6 +3,8 @@
 PrestaShop Dashboard Module
 Show Date and Time in new PrestaShop 1.6 Dashboard
 
+DON'T USE ON PRODUCTION SERVER
+
 ## Licensing
 
 Licensed under the [Open Software License (OSL) v3.0](http://www.prestashop.com/en/osl-license).
